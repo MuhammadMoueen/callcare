@@ -9,7 +9,7 @@ import { ServiceProvider } from "./context/ServiceContext";
 import { ThemeProvider } from "./context/ThemeContext";
 
 createRoot(document.getElementById("root")).render(
-  <StrictMode>
+  <StrictMode>u  
     <ThemeProvider>
       <ServiceProvider>
         <BrowserRouter>
