@@ -1,0 +1,15 @@
+<svg width="300" height="72" viewBox="0 0 300 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="72" rx="16" fill="none"/>
+  <g transform="translate(0 2)">
+    <rect x="0" y="12" width="48" height="48" rx="14" fill="#F97316"/>
+    <path d="M18 32C13.5817 32 10 28.4183 10 24V22C10 17.5817 13.5817 14 18 14H30C34.4183 14 38 17.5817 38 22V24C38 28.4183 34.4183 32 30 32H26V41H18V32Z" fill="#0F172A"/>
+    <path d="M17 26H31" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round"/>
+    <path d="M24 18V12" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round"/>
+    <path d="M19 41H31" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round"/>
+    <path d="M23 45C26.1282 45 28.7535 42.7746 29.4358 39.7529" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(64 15)">
+    <text x="0" y="23" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.04em">CallCare</text>
+    <text x="2" y="42" fill="#F97316" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.22em">CUSTOMER SUPPORT</text>
+  </g>
+</svg>

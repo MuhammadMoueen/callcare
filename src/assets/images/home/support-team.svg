@@ -1,0 +1,41 @@
+<svg width="820" height="620" viewBox="0 0 820 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="620" rx="40" fill="#F8FAFC"/>
+  <path d="M70 470C50 420 140 376 210 374C292 372 312 432 404 438C486 444 526 382 598 382C670 382 720 420 766 472V620H70V470Z" fill="#E2E8F0"/>
+  <rect x="86" y="126" width="174" height="260" rx="30" fill="#0F172A" opacity="0.08"/>
+  <rect x="286" y="70" width="210" height="316" rx="36" fill="#F97316" opacity="0.12"/>
+  <rect x="536" y="138" width="176" height="248" rx="30" fill="#0F172A" opacity="0.08"/>
+
+  <g transform="translate(92 152)">
+    <circle cx="64" cy="46" r="38" fill="#F5D0A9"/>
+    <path d="M38 120C40 98 57 84 80 84C103 84 118 98 120 120V148H38V120Z" fill="#0F172A"/>
+    <path d="M28 78C36 60 52 52 68 52C86 52 99 60 108 78L98 104H38L28 78Z" fill="#1E293B"/>
+    <circle cx="60" cy="50" r="4" fill="#0F172A"/>
+    <circle cx="86" cy="50" r="4" fill="#0F172A"/>
+    <path d="M58 64C63 68 70 68 75 64" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(290 122)">
+    <circle cx="98" cy="44" r="42" fill="#E8BE99"/>
+    <path d="M66 122C70 98 86 84 108 84C131 84 147 98 151 122L160 170H52L66 122Z" fill="#F97316"/>
+    <path d="M60 92C66 70 87 60 106 60C127 60 148 69 155 91L152 116H63L60 92Z" fill="#F8FAFC"/>
+    <circle cx="88" cy="48" r="4" fill="#0F172A"/>
+    <circle cx="117" cy="48" r="4" fill="#0F172A"/>
+    <path d="M91 62C97 68 105 68 111 62" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(566 154)">
+    <circle cx="62" cy="44" r="38" fill="#DDB18A"/>
+    <path d="M40 118C44 96 58 84 78 84C99 84 115 96 118 118V150H40V118Z" fill="#0F172A"/>
+    <path d="M28 80C38 60 53 50 70 50C89 50 103 59 111 80L103 108H37L28 80Z" fill="#1E293B"/>
+    <circle cx="55" cy="47" r="4" fill="#0F172A"/>
+    <circle cx="78" cy="47" r="4" fill="#0F172A"/>
+    <path d="M55 61C61 66 69 66 75 61" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <rect x="210" y="410" width="360" height="112" rx="22" fill="#FFFFFF" opacity="0.88"/>
+  <circle cx="260" cy="474" r="18" fill="#F97316"/>
+  <path d="M252 474H268" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M260 466V482" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <rect x="290" y="458" width="190" height="16" rx="8" fill="#E2E8F0"/>
+  <rect x="290" y="484" width="120" height="12" rx="6" fill="#F1F5F9"/>
+</svg>
